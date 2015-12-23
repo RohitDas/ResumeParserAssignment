@@ -1,0 +1,8 @@
+.idea
+src/.idea
+src/*.pyc
+src/Config/*.pyc
+src/Exceptions/*.pyc
+src/FirstPass/*.pyc
+src/Preprosessing/*.pyc
+src/Utils/*.pyc
