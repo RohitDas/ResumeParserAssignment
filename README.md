@@ -28,4 +28,4 @@ python resume_parser_server.py
 7. INSTALL ABIWORD.
    sudo apt-get install abiword
 
-For any assistance, please contact dhaval.makwana@searce.com.# ResumeParserAssignment
+
